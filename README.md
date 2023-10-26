@@ -6,18 +6,19 @@ The Classic Blog is an online platform where individuals or organizations can sh
 ## Usage
  Visit the homepage, "Login" or "Sign Up" for an account if you don't already have one.
 
-1.Option: A) Account login: click on "login" in the navigation menu - enter Username and Password then click "Sign In" to proceed.
-2.Option: B) Account Sign Up: click on "Sign Up" in the navigation menu - once open, enter Username, Email and Password then 3.3.click "Sign Up" to proceed.
-4.Once you have an account, you can create blog posts and comment on other users' posts.
-5.Create a blog post: click on the "dashboard" option in the navigation menu and select "Create a New Blog Post."
-Enter a title and contents for your Chess Blog Contribution, then click "Create Post" to save and publish.
-6.View existing blog posts by clicking on "Home" in the navigation menu.
-7.Comment: to view or "add a new comment" go to any blog post, click on any blog post - once open, you may view the comment 8.history as well as add a new comments.
-8.Edit or delete your blog post: click on the "dashboard" option in the navigation menu and select the post you wish to edit or delete.
-9.Account Log out: click on "logout" in the navigation menu.
+- 1.Option: A) Account login: Enter Username and Password then click "Login" to proceed.
+- 2.Option: B) Account Sign Up: Enter Username, Email and Password then click "Sign Up" to proceed.
+- 3.Once you have an account, you can create blog posts and comment on other user's posts.
+- 4.In Dashboard page create a blog post. Enter post title and post text and click create, see the new post popup by the side on "Current posts".
+- 5.Check existing blog posts.
+- 6.Pick a blog post on "Current posts" choosen it by tittle name and give it a comment.
+- 7.If desire click back to Dashboard on navigation menu to come back to the main page and delete a post, or either give comment to a different post.
+- 8.Account Logout: click on "logout" in the navigation menu.
 
 ## Built with
- 
+    "JSON: JSON",
+    "Dynamic JavaScript",
+    "Node.js Version 16.18.1",
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
     "dotenv": "^8.2.0",
