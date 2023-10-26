@@ -5,9 +5,10 @@ header, .project:not(:last-child) {
 .no-button {
   background: none;
   border: none;
+  font-weight: bolder;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: #004a6c;
   text-decoration: none;
   font-size: 100%;
 }
@@ -25,19 +26,43 @@ header, .project:not(:last-child) {
 
 .Welcome {
   font-family: Black Ops One;
-  color: rgb(246, 93, 5)
+  color: rgb(243, 251, 104)
 }
 
 .footer {
   position: fixed;
+  font-family: Black Ops One;
+  height: 60px;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(246, 93, 5);
-  color: white;
+  background-color: rgb(252, 135, 68);
+  color: #004a6c;
   text-align: center;
 }
 
-.theClassicBlogComment {
-  
+.comment {
+  margin-left: 400px;
+
+}
+
+body {
+  background-color: rgb(243, 251, 104);
+}
+
+header {
+  background-color: rgb(252, 135, 68);
+}
+
+.text {
+margin-top: 10px;
+
+}
+
+.image {
+height: 100px;
+width: 110px;
+margin-right: 10px;
+margin-top: -25px; 
+margin-bottom: -10px;
 }
