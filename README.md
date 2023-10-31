@@ -6,14 +6,14 @@ The Classic Blog is an online platform where individuals or organizations can sh
 ## Usage
  Visit the homepage, "Login" or "Sign Up" for an account if you don't already have one.
 
--1. Option: A) Account login: Enter Username and Password then click "Login" to proceed.
--2. Option: B) Account Sign Up: Enter Username, Email and Password then click "Sign Up" to proceed.
--3. Once you have an account, you can create blog posts and comment on other user's posts.
--4. In Dashboard page create a blog post. Enter post title and post text and click create, see the new post popup by the side on "Current posts".
--5. Check existing blog posts.
--6. Pick a blog post on "Current posts" choosen it by tittle name and give it a comment.
--7. If desire click back to Dashboard on navigation menu to come back to the main page and delete a post, or either give comment to a different post.
--8. Account Logout: click on "logout" in the navigation menu.
+- 1.Option: A) Account login: Enter Username and Password then click "Login" to proceed.
+- 2.Option: B) Account Sign Up: Enter Username, Email and Password then click "Sign Up" to proceed.
+- 3.Once you have an account, you can create blog posts and comment on other user's posts.
+- 4.In Dashboard page create a blog post. Enter post title and post text and click create, see the new post popup by the side on "Current posts".
+- 5.Check existing blog posts.
+- 6.Pick a blog post on "Current posts" choosen it by tittle name and give it a comment.
+- 7.If desire click back to Dashboard on navigation menu to come back to the main page and delete a post, or either give comment to a different post.
+- 8.Account Logout: click on "logout" in the navigation menu.
 
 ## Built with
     "JSON: JSON",
@@ -34,6 +34,6 @@ The Classic Blog is an online platform where individuals or organizations can sh
 
 ![Screenshot of Deployed Website](/public/images/TheClassicBlog1.png)
 
-![Screenshot of Deployed Website](/public/images/ClassicBlog2.png)
+![Screenshot of Deployed Website](/public/images/TheClassicBlog2.png)
 
 [Walkthrough Video Demo Link](https://theclassicblog-259a8e4ffc33.herokuapp.com/post/1)
