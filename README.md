@@ -36,4 +36,4 @@ The Classic Blog is an online platform where individuals or organizations can sh
 
 ![Screenshot of Deployed Website](/public/images/TheClassicBlog2.png)
 
-[Walkthrough Video Demo Link](https://theclassicblog-259a8e4ffc33.herokuapp.com/post/1)
+[Live Demo Link](https://theclassicblog-259a8e4ffc33.herokuapp.com/post/1)
